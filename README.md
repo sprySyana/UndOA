@@ -10,8 +10,12 @@ The site proposes recordings either in French or in English done by a non-native
 ### Content
 This repository fill harbor all the PHP files needed for the UndOA web site.
 
-You will also find a modified version of the "speech rate" praat script.
+You will also find a modified praat script : "syllable-nuclei_V2".
 ## Contributors
 This project is lead by A.Henderson, Associate Professor (English language) at UGA in LIDILEM lab.
 
 I contributed to the initialisation of this project by choosing the norms, nomenclatures and methodologies to be used for processing our recordings.
+
+S.Coulange is the person who has modified the praat script, the modification automates the saving of  textgrids.
+
+His goal in doing so is to use the text grid to distinguish the differents speakers, in order to isolate them for calculating accurate measures of their Speech Rate and Articulation Rate.
