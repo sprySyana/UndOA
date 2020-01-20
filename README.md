@@ -10,7 +10,7 @@ The site proposes recordings either in French or in English done by a non-native
 ### Content
 This repository fill harbor all the PHP files needed for the UndOA web site.
 
-You will also find a modified version of the "speech rate" praat algorithm.
+You will also find a modified version of the "speech rate" praat script.
 ## Contributors
 This project is lead by A.Henderson, Associate Professor (English language) at UGA in LIDILEM lab.
 
